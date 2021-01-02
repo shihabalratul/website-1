@@ -1,0 +1,41 @@
+table{
+    font-family: sans-serif;
+
+    }
+#name{
+    border: 10px solid #023b52 ;
+        
+    background-color:  #023b52;
+    font-family: arial;
+    color: white;
+    text-align: center;
+    margin: 0% 0% .5% 0%;
+        
+    }
+
+.center{
+        
+    display:block;
+    margin: auto;
+    width:20%;
+    border-radius:50%;
+    border: 5px solid #023b52;
+
+    }
+
+.left{
+
+    border:5px solid #023b52 ;
+    border-radius:5px;
+    text-align: left;
+
+    }
+
+#pad{
+    padding:20px;
+    }
+
+.center2{
+
+    text-align: center;
+    }
